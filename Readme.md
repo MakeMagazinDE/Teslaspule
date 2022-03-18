@@ -22,7 +22,7 @@ und schildern hier unsere Erfahrungen.
 
 Hier gibt es die Schnittdateien für das Selbstbau-Gehäuse aus Plexiglas.
 
-![Picture](https://github.com/MakeMagazinDE/Teslaspule/blob/main/Aufmacher.JPG) 
+![Picture](https://github.com/MakeMagazinDE/Teslaspule/blob/main/Bild05.JPG) 
 
 Den vollständigen Artikel mit der Bauanleitung gibt es in der **[Make-Ausgabe 2/22 ab Seite 18](https://www.heise.de/select/make/2022/2/2126012562679556707)** zu lesen. 
 
